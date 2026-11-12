@@ -20,7 +20,7 @@ e guarda, junto de cada procedimento, uma consulta que confirma se deu certo.
 **Meta da Sprint:** ter o ambiente pronto e a primeira versão do banco do dicionário de dados funcionando.
 
 **Backlog:**
-- [ ] Instalar SQL Server e SSMS
+- [x] Instalar MySQL e SSMS
 - [ ] Modelo conceitual: entidades e relacionamentos
 - [ ] Modelo lógico: colunas e chaves
 - [ ] Criar o banco fictício
