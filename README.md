@@ -1,9 +1,10 @@
 # central-conhecimento
 
-Esse projeto é uma base de conhecimento para aplicar e fixar tudo o que tenho estudado ultimamente:
-- Git
-- GitHub
-- Versionamento
+Esse projeto é uma base de conhecimento para aplicar e aprofundar o que tenho estudado.
+Já utilizo Git e GitHub para versionar meus projetos, e aqui estou indo além do básico,
+com um histórico organizado e boas práticas de mercado:
+- Git e GitHub
+- Versionamento de documentação
 - Scrum aplicado ao meu projeto de banco de dados
 
 ## Por que este projeto existe
@@ -32,12 +33,14 @@ e guarda, junto de cada procedimento, uma consulta que confirma se deu certo.
 **Definição de Pronto:** um item só está pronto quando funciona e tem uma nota
 explicando o que foi feito, como e por quê.
 
-## O que já aprendi
+## O que estou aprofundando
 
-- **Commit:** guardar uma versão do projeto com uma mensagem explicando a mudança
-- **Diff:** comparar a versão antiga com a nova
-- **Pull:** trazer para o computador as mudanças que estão no GitHub
-- **Push:** enviar para o GitHub as mudanças feitas no computador
+Esse projeto é uma base de conhecimento para aplicar e aprofundar o que tenho estudado.
+Já utilizo Git e GitHub para versionar meus projetos, e aqui estou indo além do básico,
+com um histórico organizado e boas práticas de mercado:
+- Git e GitHub
+- Versionamento de documentação
+- Scrum aplicado ao meu projeto de banco de dados
 
 ## Observação
 
