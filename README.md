@@ -1,5 +1,4 @@
 # central-conhecimento
-# central-conhecimento
 
 Esse projeto é uma base de conhecimento para aplicar e fixar tudo o que tenho estudado ultimamente:
 - Git
